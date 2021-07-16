@@ -1,10 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.tensorflow.lite.examples.detection">
 
-    <uses-sdk />
-
     <uses-permission android:name="android.permission.CAMERA" />
-
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
 
@@ -12,7 +9,6 @@
         android:allowBackup="false"
         android:icon="@drawable/icono"
         android:label="@string/tfe_od_app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ObjectDetection">
 
@@ -25,9 +21,9 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/tfe_od_app_name" />
+
         <activity
             android:name=".DetectorActivity"
             android:label="@string/tfe_od_app_name" />
-
     </application>
 </manifest>
