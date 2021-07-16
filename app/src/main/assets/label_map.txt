@@ -1,0 +1,5 @@
+background
+automovil
+deportivo
+carro
+camioneta

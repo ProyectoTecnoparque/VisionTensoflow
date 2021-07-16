@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279161951695",
+    "project_id": "detec-v2",
+    "storage_bucket": "detec-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279161951695:android:66b11b3b12eb42d66d6eba",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279161951695-7s4tgcsvda8c0etj4763srkj6nu7rn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRLC9O6ZPu-TI-wvDfFhZrx_hAg6lb7PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279161951695-7s4tgcsvda8c0etj4763srkj6nu7rn7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
